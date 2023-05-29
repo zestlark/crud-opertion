@@ -20,6 +20,10 @@
     .id {
         display: none;
     }
+
+    form tr td:last-child{
+        min-width: 150px;
+    }
 </style>
 
 <body>
